@@ -1,2 +1,2 @@
-# SQL_Projects
-Projects incorporating SQL code
+# Chicago data
+Project incorporating SQL code
