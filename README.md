@@ -1,2 +1,2 @@
 # Chicago data
-Project incorporating SQL code
+Insights into Chicago crime statistics. Powered by IBM DB2. Coded in SQL
